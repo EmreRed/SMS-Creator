@@ -1,6 +1,6 @@
 {
     "name": "sms-creator",
-    "version": "0.9",
+    "version": "0.0.9",
     "description": "NPM Module for SMPP to Correctly Split Messages ",
     "license": "MIT",
     "repository": "emredv/SMS-Creator",
