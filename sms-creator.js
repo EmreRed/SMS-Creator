@@ -1,4 +1,4 @@
-module.exports = function wrap(text, type) {
+function wrap(text, type) {
   type = type.toString().toLowerCase();
   var maxlength = 160;
   if(text.length > maxlength){
