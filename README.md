@@ -13,7 +13,7 @@ npm i sms-creator
 ```
 var smscreator = require('sms-creator');
 
-smscreator.wrap(message_content, message_encode);
+short_message = smscreator(message_content, message_encode);
 ```
 `message_content` : Entire message content  
 `message_encode` : ASCII / LATIN / TURKISH / UNICODE
